@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #edb2b2;
+}
+h2{
+    color: red;
+    background-color: #333;
+    border-radius: 4rem;
+    text-align: center;
+    align-items: center;
+}
+.container{
+    width: 300px;
+    background: white;
+    padding: 50px;
+    margin: 150px auto;
+    border-radius: 60px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+}
+button{
+    width: 100%;
+padding: 10px;
+margin-top: 15px;
+background: rgb(78, 83, 219);
+color: white;
+border: navy;
+border-radius: 4rem;
+}
+span{
+    color: red;
+    font-size: 12px;
+}
